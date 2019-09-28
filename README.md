@@ -1,6 +1,6 @@
 # DerplAI
 
-A copmuter opponent for Awesomenauts that plays the character of Derpl Zork. Maintained since December 2014.
+A computer opponent for Awesomenauts that plays the character of Derpl Zork. Maintained since December 2014.
 
 # Examples
 
@@ -10,6 +10,6 @@ A copmuter opponent for Awesomenauts that plays the character of Derpl Zork. Mai
 
 [editor example 3](https://github.com/TheMesp/DerplAI/blob/master/eg3.PNG)
 
-[debugger example 1](https://github.com/TheMesp/DerplAI/blob/master/eg4.JPEG)
+[Ingame debugger example 1](https://github.com/TheMesp/DerplAI/blob/master/eg4.JPEG)
 
-[debugger example 2](https://github.com/TheMesp/DerplAI/blob/master/eg5.JPEG)
+[Ingame debugger example 2](https://github.com/TheMesp/DerplAI/blob/master/eg5.JPEG)
